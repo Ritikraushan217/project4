@@ -90,6 +90,7 @@ body {
 
 .bottom_section {
     display: flex;
+    justify-content: center;
 }
 
 .contact {
